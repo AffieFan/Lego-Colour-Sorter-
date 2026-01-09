@@ -14,10 +14,12 @@ Fully automated LEGO colour-sorting system designed and prototyped for the Toron
 [Calculations](https://drive.google.com/file/d/1DZqr5AY5gptGB_TLBmOlQDHv4m626uK-/view?usp=sharing)
 
 ---
+![Uploading image.png…]()
+---
 
 ## Project Overview
 
-This project focuses on the design and implementation of a **Colour LEGO sorting system** where LEGO pieces are transported, sensed, classified, and routed to the appropriate collection bin (red, green, blue, other).
+This project focuses on the design and implementation of a **Colour LEGO sorting system** where LEGO pieces are transported, sensed, classified, and routed to the appropriate collection bin (red, green, blue, or other).
 
 Key goals:
 - Reliable colour detection
@@ -35,16 +37,7 @@ Key goals:
 
 ---
 
-## Software & Hardware Stack
-
-- **Microcontroller:** Arduino  
-- **Sensor:** TCS34725 RGB Colour Sensor  
-- **Actuators:** Servos, stepper motor  
-- **Languages:** Arduino
-
----
-
-## Code Structure
+## Code Structure - Arduino
 
 Each `.ino` file corresponds to a specific subsystem or development stage:
 
