@@ -1,7 +1,7 @@
 # Lego Colour Sorter
 Fully automated LEGO colour-sorting system designed and prototyped for the Toronto LEGO Users Group (ToroLUG). Developed for Praxis II @ University of Toronto (Jan 2025 - April 2025).
 
-##External Links
+## External Links
 
 [Process Photos](https://www.canva.com/design/DAGj6-HOVCs/F2F9mz-JD6iF1pp3E96jQQ/edit?utm_content=DAGj6-HOVCs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
