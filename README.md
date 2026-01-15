@@ -14,7 +14,10 @@ Fully automated LEGO colour-sorting system designed and prototyped for the Toron
 [Calculations](https://drive.google.com/file/d/1DZqr5AY5gptGB_TLBmOlQDHv4m626uK-/view?usp=sharing)
 
 ---
-![Uploading image.png…]()
+<img width="1308" height="653" alt="image" src="https://github.com/user-attachments/assets/c2c990f9-ffc9-4e22-8dc8-2567ec7a47e8" />
+<img width="1081" height="718" alt="image" src="https://github.com/user-attachments/assets/d14491f7-03bb-4df5-9000-c7487cfd3515" />
+
+
 ---
 
 ## Project Overview
